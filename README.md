@@ -1,4 +1,4 @@
-# instagram
+# Instagram 
 ## Recriando a página inicial do Instagram.
 
 Nesse projeto o desafio foi reconstruir a página inicial de login do Instagram, na qual foi abordado os conceitos sobre
